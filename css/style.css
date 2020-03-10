@@ -4,7 +4,7 @@ body{
 }
 @font-face{
 	font-family: Raleway-Black;
-	src:url(../fonts/raleway/Raleway-Black.ttf);
+	src:url(../fonts/Raleway/Raleway-Black.ttf);
 }
 h2 {
 	font-family: Raleway-Black;
@@ -37,7 +37,7 @@ nav {
 nav ul{
 	float:left;
 	text-transform: capitalize;
-    list-style-type:none;
+        list-style-type:none;
 	margin:9px;
 	padding:5px;
 }
@@ -56,7 +56,7 @@ a {
 	text-decoration:none;
 	color:purple;
 	cursor:pointer;
-    padding: 5px 10px;  
+        padding: 5px 10px;  
 }
 a:hover{
     transition:0.1s;
@@ -129,5 +129,5 @@ footer {
 	text-align:center;
 }
 input , label{
-  font-size: 20px;
+        font-size: 20px;
 }
